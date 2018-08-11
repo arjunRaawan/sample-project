@@ -20,6 +20,11 @@ public class AppConfig {
 	@Bean
 	public Step step2() {
 		return null;
+	}
+
+	@Bean
+	public Step step1() {
+		return null;
 
 	}
 }
